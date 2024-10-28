@@ -19,6 +19,5 @@ are little to no safety measures in this program because I'm lazy.
 All files will be found in the output folder, DO NOT MOVE OR RENAME THAT FOLDER.
 
 Thanks for using! Enjoy!						                             
-10/10/2024
 
 Made for Apple Silicon (M3)
