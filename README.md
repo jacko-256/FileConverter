@@ -1,20 +1,12 @@
 # FileConverter
-To use through the terminal, input the following commands in your terminal:
+To use through the terminal, input the following commands in your terminal then run the file:
  - pip3 install Pillow pillow-heif PyPDF2
 
-Now to launch the file, enter: 
- - cd [insert enclosing folder's file path]
- - python3 [insert script's file path]
+You can convert HEIF, JPEG, and PNG files to each other, HEIF, JPEG, AND PNG files to PDF (not vice versa), and also merge pdf files together.
 
-My command is: cd /Users/jacksonadams1/VSCode/FileConverter
-               python3 imagetoascii.py
-	           (You can replace for convenience)
+You can also convert MP4, MOV, and GIF files to each other as well as isolating/adding audio to video.
 
-So far, you can convert HEIF, JPEG, and PNG files to each other, HEIF, JPEG, AND PNG
-files to PDF (not vice versa), and also merge pdf files together.
-
-It is crucial that you do not misspell any commands, as any error will mess it up. There
-are little to no safety measures in this program because I'm lazy.
+It is crucial that you do not misspell any commands, as any error will mess it up. There are little to no safety measures in this program because I'm lazy.
 
 All files will be found in the output folder, DO NOT MOVE OR RENAME THAT FOLDER.
 
